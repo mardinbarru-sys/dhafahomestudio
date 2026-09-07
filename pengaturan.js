@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Dhafa Home Studio",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBpBplpBWsjrineMTDw5EQD07LV2sYr_Lo",
     whatsappAdmin: "6281355939876" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
