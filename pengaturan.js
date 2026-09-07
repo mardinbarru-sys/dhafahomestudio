@@ -1,6 +1,6 @@
 // =========================================================================
 // PENGATURAN APLIKASI CLIENT PORTAL
-// Silakan ubah teks di dalam tanda kutip ("...") dengan data studio Anda.
+// Silakan ubah teks di dalam tanda kutip ("Selamat Datang di Dhafa Home Studio") dengan data studio Anda.
 // =========================================================================
 
 const CONFIG_APP = {
